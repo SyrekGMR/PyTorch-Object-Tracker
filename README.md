@@ -1,4 +1,4 @@
-# PyTorch-Object-Tracker
+# PyTorch-Object-Tracker [ONGOING]
 <p align="center">
   <img src="Assets/Detector.jpg" width="400" height="600" /></img>
 </p>
